@@ -11,11 +11,23 @@ Esse repositório simplesmente apresenta o meu react em texto sobre as tecnologi
 
 Os artefatos estão armazenados na pasta [`inputs`](https://github.com/quindai/mlai9003/tree/main/inputs).
 
-| Acessar os serviços de Language e Speech através do portal da Azure| 
-| ----------------------------------- |
-| ![NLP Serviços](inputs/speech4.jpeg) |
+Para usar os serviços de Linguagem, você precisará iniciar no portal da Azure (https://portal.azure.com).
 
 Clica em create e você poderá ver a listagem dos modelos disponibilizados nesse recurso novo a ser criado. Clica em `Continuar para criar o seu recurso`.
-| Criar recurso para o Azure Language | 
-| ----------------------------------- |
-| ![Criando recurso do Azure Language](inputs/lang1.jpeg) |
+| Criar recurso para o Azure Language | Criar recurso para o Azure Language | 
+| ----------------------------------- | ----------------------------------- |
+| ![Criando recurso do Azure Language](inputs/lang1.jpeg) | ![Criando recurso do Azure Language](inputs/lang2.jpeg) |
+
+Você pode seguir os passos a seguir para replicar os mesmos resultados com os inputs disponibilizados, mas seguindo o tutorial oficial já é suficiente, porque a plataforma é simples e fácil de usar.
+
+| Passo 1 no Speech Studio | Passo 2 no Speech Studio | 
+| ----------------------------------- | ----------------------------------- |
+| ![NLP Serviços](inputs/speech1.jpeg) | ![NLP Serviços](inputs/speech2.jpeg) |
+
+
+| Passo 3 no Speech Studio | Passo 4 no Speech Studio | 
+| ----------------------------------- | ----------------------------------- |
+| ![NLP Serviços](inputs/speech3.jpeg) | ![NLP Serviços](inputs/speech4.jpeg)
+
+
+
