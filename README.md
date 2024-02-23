@@ -5,3 +5,6 @@ Muito intrigante pensar nas possibilidades envolvendo as barreiras de língua en
 
 Esse repositório simplesmente apresenta o meu react em texto sobre as tecnologias do Azure Language Studio - https://language.cognitive.azure.com/ e do Speech Studio - https://speech.microsoft.com/.
 
+| Acessar os serviços de Language e Speech através do portal da Azure| 
+| ----------------------------------- |
+| ![NLP Serviços](inputs/speech4.jpeg) |
