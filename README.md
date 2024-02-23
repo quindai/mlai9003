@@ -9,6 +9,8 @@ Se você for desenvolvedor(a) e quiser se aprofundar com o SDK, siga esse endere
 
 Esse repositório simplesmente apresenta o meu react em texto sobre as tecnologias do Azure Language Studio - https://language.cognitive.azure.com/ e do Speech Studio - https://speech.microsoft.com/.
 
+Os artefatos estão armazenados na pasta [`inputs`](https://github.com/quindai/mlai9003/tree/main/inputs).
+
 | Acessar os serviços de Language e Speech através do portal da Azure| 
 | ----------------------------------- |
 | ![NLP Serviços](inputs/speech4.jpeg) |
