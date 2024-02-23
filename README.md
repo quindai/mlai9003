@@ -8,3 +8,5 @@ Esse repositório simplesmente apresenta o meu react em texto sobre as tecnologi
 | Acessar os serviços de Language e Speech através do portal da Azure| 
 | ----------------------------------- |
 | ![NLP Serviços](inputs/speech4.jpeg) |
+
+Clica em create e você poderá ver a listagem dos modelos disponibilizados nesse recurso novo a ser criado. Clica em `Continuar para criar o seu recurso`.
