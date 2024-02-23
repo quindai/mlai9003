@@ -15,7 +15,7 @@ Para usar os serviços de Linguagem, você precisará iniciar no portal da Azure
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" src="inputs/lang1.jpeg"/> Criar recurso para o Azure Language|  <img width="1604" src="inputs/lang2.jpeg"/>|<img width="1604" src="inputs/lang3.jpeg"/>|
+|<img width="1604" src="inputs/lang1.jpeg"/> Criar recurso para o Azure Language|  <img width="1604" src="inputs/lang2.jpeg"/> Tela de criação de recurso |<img width="1604" src="inputs/lang3.jpeg"/> Tela de recurso sendo implantado |
 |<img width="1604" src="inputs/lang4.jpeg"/>  |  <img width="1604" src="inputs/lang5.jpeg"/> | <img width="1604" src="inputs/lang6.jpeg"/>|
 
 Você pode seguir os passos a seguir para replicar os mesmos resultados com os inputs disponibilizados, mas seguindo o tutorial oficial já é suficiente, porque a plataforma é simples e fácil de usar.
